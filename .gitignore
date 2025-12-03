@@ -23,3 +23,9 @@ Thumbs.db       # Windows
 
 # Data files
 data/
+
+# Unused model
+models/gpt-neo-03
+
+# Hugging Face
+shakespeare-chatbot/
